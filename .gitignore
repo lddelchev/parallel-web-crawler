@@ -1,0 +1,11 @@
+/*.iml
+/.idea/
+/out/
+/bin/
+/target/
+/nbproject/
+.project
+.classpath
+/.settings/
+.checkstyle
+
